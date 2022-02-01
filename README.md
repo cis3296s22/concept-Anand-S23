@@ -1,4 +1,4 @@
-# Proof of Concept for PROJECT NAME 
+# Proof of Concept for Pixel 
 This document proposes a novel application of pixel art program which allows users to create pixel art, and provides tools to make it easier to do so. This application will have features such as layers and fill tool. It will also have a clean interface so it is intuitive to use.
 
 # How to Build
